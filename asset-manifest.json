@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/galeriaNFT/static/js/main.7c3ab0e9.chunk.js",
-    "main.js.map": "/galeriaNFT/static/js/main.7c3ab0e9.chunk.js.map",
-    "runtime-main.js": "/galeriaNFT/static/js/runtime-main.8dd05cf3.js",
-    "runtime-main.js.map": "/galeriaNFT/static/js/runtime-main.8dd05cf3.js.map",
-    "static/js/2.cea19fac.chunk.js": "/galeriaNFT/static/js/2.cea19fac.chunk.js",
-    "static/js/2.cea19fac.chunk.js.map": "/galeriaNFT/static/js/2.cea19fac.chunk.js.map",
-    "index.html": "/galeriaNFT/index.html",
-    "static/js/2.cea19fac.chunk.js.LICENSE.txt": "/galeriaNFT/static/js/2.cea19fac.chunk.js.LICENSE.txt"
+    "main.js": "/galeriaNft/static/js/main.7c3ab0e9.chunk.js",
+    "main.js.map": "/galeriaNft/static/js/main.7c3ab0e9.chunk.js.map",
+    "runtime-main.js": "/galeriaNft/static/js/runtime-main.d7c5b6d9.js",
+    "runtime-main.js.map": "/galeriaNft/static/js/runtime-main.d7c5b6d9.js.map",
+    "static/js/2.8f245a63.chunk.js": "/galeriaNft/static/js/2.8f245a63.chunk.js",
+    "static/js/2.8f245a63.chunk.js.map": "/galeriaNft/static/js/2.8f245a63.chunk.js.map",
+    "index.html": "/galeriaNft/index.html",
+    "static/js/2.8f245a63.chunk.js.LICENSE.txt": "/galeriaNft/static/js/2.8f245a63.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8dd05cf3.js",
-    "static/js/2.cea19fac.chunk.js",
+    "static/js/runtime-main.d7c5b6d9.js",
+    "static/js/2.8f245a63.chunk.js",
     "static/js/main.7c3ab0e9.chunk.js"
   ]
 }
