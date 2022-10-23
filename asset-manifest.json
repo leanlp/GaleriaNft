@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/galeriaNft/static/js/main.bb118d9f.chunk.js",
-    "main.js.map": "/galeriaNft/static/js/main.bb118d9f.chunk.js.map",
+    "main.js": "/galeriaNft/static/js/main.38b83908.chunk.js",
+    "main.js.map": "/galeriaNft/static/js/main.38b83908.chunk.js.map",
     "runtime-main.js": "/galeriaNft/static/js/runtime-main.d7c5b6d9.js",
     "runtime-main.js.map": "/galeriaNft/static/js/runtime-main.d7c5b6d9.js.map",
     "static/js/2.6e13af72.chunk.js": "/galeriaNft/static/js/2.6e13af72.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.d7c5b6d9.js",
     "static/js/2.6e13af72.chunk.js",
-    "static/js/main.bb118d9f.chunk.js"
+    "static/js/main.38b83908.chunk.js"
   ]
 }
